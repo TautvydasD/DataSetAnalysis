@@ -1,0 +1,5 @@
+.metals
+.vscode
+.venv
+Lab1/code
+Lab1/__pycache__
